@@ -1,7 +1,7 @@
 # Tableau Story - Citi Bike Analytics
 
 ## Description
-Built a Tableau story with several data visualizations to explore the [New York Citi Bike Dataset]((https://en.wikipedia.org/wiki/Citi_Bike)).
+Built a Tableau story with several data visualizations to explore the [New York Citi Bike Dataset](https://en.wikipedia.org/wiki/Citi_Bike).
 
 ## Tools Used
 **Excel, Tableau**
