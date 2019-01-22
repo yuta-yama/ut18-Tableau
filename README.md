@@ -11,8 +11,6 @@ Aggregated the data found in the Citi Bike Trip History Logs for October 2018 to
 
 ## Finished Result
 
-[Tableau Public](https://public.tableau.com/views/CitiBikeNYOctober2018/CitiBikeNYOctober2018Story?:retry=yes&:embed=y&:display_count=yes)
-
 ![Example](Images/citi_bike_01.png)
 ![Example](Images/citi_bike_02.png)
 ![Example](Images/citi_bike_03.png)
@@ -24,3 +22,5 @@ Aggregated the data found in the Citi Bike Trip History Logs for October 2018 to
 ![Example](Images/citi_bike_09.png)
 ![Example](Images/citi_bike_10.png)
 ![Example](Images/citi_bike_11.png)
+
+[Tableau Public Link](https://public.tableau.com/views/CitiBikeNYOctober2018/CitiBikeNYOctober2018Story?:retry=yes&:embed=y&:display_count=yes)
