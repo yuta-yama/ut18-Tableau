@@ -6,9 +6,6 @@ Built a Tableau story with several data visualizations to explore the [New York 
 ## Tools Used
 **Excel, Tableau**
 
-## Step 01 - Plotly.js
-Aggregated the data found in the Citi Bike Trip History Logs for October 2018 to build a data story in Tableau.
-
 ## Finished Result
 
 ![Example](Images/citi_bike_01.png)
